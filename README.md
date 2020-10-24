@@ -19,6 +19,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 More interested in learning about git/github and it's features?
 Search for crash courses on youtube, it's a great way to get a simple understanding on a subject.
 
+## Understanding TypeScript Folder
+
+In ./src/app/ Understanding TypeScript Folder is present to familiarize yourself with typescript rules and why it is an important thing to learn. There are some examples + notes and a html file for you to follow.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
