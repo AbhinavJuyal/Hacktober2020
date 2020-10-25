@@ -1,6 +1,6 @@
 # Angular2020
 
-chutadhh aadmi
+chutadhh aadmi part 2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
 
